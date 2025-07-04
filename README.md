@@ -1,6 +1,6 @@
 # Student-Management-System-C++-Project-using-LinkedList-Data-Structure
 
-![image alt]()
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-Project-using-LinkedList-Data-Structure/blob/main/Output%20SS.png?raw=true)
 
 
 This project is a console-based application developed in C++ that allows users to manage student records dynamically using a singly linked list. The system performs essential operations such as adding, viewing, searching, editing, and deleting student data. It serves as a basic model for understanding linked list operations and CRUD functionalities in C++.
